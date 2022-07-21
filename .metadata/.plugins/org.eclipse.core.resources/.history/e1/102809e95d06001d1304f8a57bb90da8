@@ -1,0 +1,10 @@
+package com.shankar.Springanno;
+
+public class Mediatek implements MobileProcessor {
+
+	public void process() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

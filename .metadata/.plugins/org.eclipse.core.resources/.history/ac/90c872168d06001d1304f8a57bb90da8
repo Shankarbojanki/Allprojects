@@ -1,0 +1,5 @@
+package net.javacrud.usermanagement.web;
+
+public class UserServlet {
+
+}

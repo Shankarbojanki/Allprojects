@@ -1,0 +1,18 @@
+package com.shankar.Shabo;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+       Vehicle car=new Car();
+       car.drive();
+       
+       Vehicle bike=new Bike();
+       bike.drive();
+    	   
+    }
+}

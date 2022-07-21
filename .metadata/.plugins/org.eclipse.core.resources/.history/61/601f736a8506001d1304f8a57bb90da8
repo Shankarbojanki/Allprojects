@@ -1,0 +1,5 @@
+package net.javacrud.usermanagement.dao;
+
+public class UserDAO {
+
+}

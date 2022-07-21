@@ -1,0 +1,5 @@
+package com.shankar.Springanno;
+
+public interface MobileProccessor {
+	void processor();
+}

@@ -1,0 +1,26 @@
+package com.shankar.Shabo;
+
+import org.springframework.context. ApplicationContext;
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	
+     ApplicationContext context=
+    
+    
+       Vehicle car=new Car();
+       car.drive();
+       
+       Vehicle bike=new Bike();
+       bike.drive();
+       
+       Vehicle obj=(Vehicle)context.getBean("vehicle");
+       obj.drive();
+    	   
+    }
+}

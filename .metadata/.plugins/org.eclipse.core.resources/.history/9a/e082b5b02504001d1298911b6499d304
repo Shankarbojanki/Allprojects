@@ -1,0 +1,7 @@
+package com.shankar.Shabo;
+
+public class Bike {
+    public void ride() {
+    	System.out.println("get ready for bike race")
+    }
+}
